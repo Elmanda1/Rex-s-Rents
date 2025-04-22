@@ -99,7 +99,7 @@ The project has the following folder structure:
 
 ## 📞 Contact
 
-If you have any questions or suggestions, feel free to contact me via email: **[email@example.com](mailto:email@example.com)**.
+If you have any questions or suggestions, feel free to contact me via email: **[faliheghaisan@gmail.com](mailto:faliheghaisan@gmail.com)**.
 
 ---
 
